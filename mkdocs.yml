@@ -8,5 +8,5 @@ theme:
 
 nav:
   - Home: index.md
-  - Week10: /week10
-  - Lectures: /lectures
+  - Week10: \week10
+  - Lectures: \lectures
