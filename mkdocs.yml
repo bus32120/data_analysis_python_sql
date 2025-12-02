@@ -1,0 +1,6 @@
+site_name: Data Analysis with Python and SQL
+theme:
+  name: material
+
+nav:
+  - Home: index.md
