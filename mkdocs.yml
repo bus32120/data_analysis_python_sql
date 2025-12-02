@@ -8,5 +8,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Week10: \week10
-  - Lectures: \lectures
+  - About: about.md
+  - Week 10:
+    - Bias and variance tradeoff: week10/bias_variance_tradeoff.ipynb
