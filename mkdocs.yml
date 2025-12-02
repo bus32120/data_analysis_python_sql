@@ -1,6 +1,10 @@
 site_name: Data Analysis with Python and SQL
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
 
 nav:
   - Home: index.md
